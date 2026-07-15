@@ -1,0 +1,6 @@
+{
+  "name": "URC IT Helpdesk",
+  "description": "Internal IT department helpdesk for Uganda Railway Corporation. Features standard operating procedures, active ticket workflows, asset tracking, network topology maps, and Gemini AI troubleshooting suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
